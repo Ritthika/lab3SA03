@@ -13,3 +13,9 @@ part 3 lab commit
     เพิ่ม function changeTurn() สำหรับการสลับตัวอักษร
 part 4 lab commit
     เพิ่มเงื่อนไขให้ตรวจสอบแถวในการชนะโดยสามารถตรวจสอบใน console เมื่อมีการเลือกช่อง
+part 5 lab commit
+    เพิ่มเติมเงื่อนไขในการตรวจสอบผู้ชนะและแสดงผล 
+
+
+
+ที่มา https://www.youtube.com/watch?v=n02C5wbZV28&feature=youtu.be
