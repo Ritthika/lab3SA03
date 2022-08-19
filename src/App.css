@@ -18,3 +18,8 @@ div#game {
 .row {
     display: flex;
 }
+
+h1{
+    text-align: center;
+    color: blue;
+}
