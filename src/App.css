@@ -4,6 +4,11 @@
     background: #eee;
     border: 2px solid black;
     cursor: pointer;
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 div#game {
