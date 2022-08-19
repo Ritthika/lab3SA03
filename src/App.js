@@ -1,16 +1,28 @@
 import React from 'react';
 import './App.css';
-import WordCard from './WordCard';
 
-  const word = "Hello";
-  function App() {
-    return (
-      <div>
-        {
-          <WordCard value={word}/>
-        }
+  function Game() {
+    return <div id ="game">
+      <div className="row">
+          <div className="box"></div>
+          <div className="box"></div>
+          <div className="box"></div>
       </div>
-    );
+
+      <div className="row">
+          <div className="box"></div>
+          <div className="box"></div>
+          <div className="box"></div>
+      </div>
+
+      <div className="row">
+          <div className="box"></div>
+          <div className="box"></div>
+          <div className="box"></div>
+      </div>
+    </div>
   }
   
-export default App;
+
+
+export default Game;
