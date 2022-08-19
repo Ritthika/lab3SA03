@@ -28,3 +28,21 @@ h1{
     text-align: center;
     color: blue;
 }
+h2{
+    text-align: center;
+    color: red;
+}
+.restartGame {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 13px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border: none;
+    cursor: pointer;
+    animation-name: restartGameAnimation;
+    animation-duration: 2s;
+  }
